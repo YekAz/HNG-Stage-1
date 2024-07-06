@@ -25,3 +25,8 @@ Let's create a bash script called create_users.sh that reads a text file contain
 - Assigning Groups: The script assigns the user to their personal group and any additional groups specified in the input file. It validates group names and logs any errors encountered during this process.
 
 - Setting Passwords: A random password is generated for each user and set using the chpasswd command. The passwords are securely stored in the specified file with appropriate permissions.
+
+## References
+(HNG INTERNSHIP)[https://hng.tech/internship]
+(HNG TECH PREMIUM)[https://hng.tech/premium]
+(HNG HIRE)[https://hng.tech/hire]
